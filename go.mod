@@ -1,4 +1,4 @@
-module github.com/kbirk/godi
+module github.com/kbirk/di
 
 go 1.22.0
 
